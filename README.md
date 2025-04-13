@@ -40,9 +40,11 @@
 
 # TO-DOs:
 
-- [] Center Content
-- [] Try out alternative **Horizontal Card Layout**
+- [x] Center Content
+- [ ] Try out alternative **Horizontal Card Layout**
 - [x] **Match content width** to image width on each page
-- [] Move Homepage Link to **top** of page and convert to a **button**
-- [] Improve **color scheme** for greater legibility and attractiveness
-- [] Add **decorative images** to left and right sides of Home Page
+- [ ] Move Homepage Link to **top** of page and convert to a **button**
+- [ ] Improve **color scheme** for greater legibility and attractiveness
+- [ ] Add **decorative images** to left and right sides of Home Page
+- [ ] Fix headings and Source Boxs' Center Alignment
+
